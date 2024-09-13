@@ -1,0 +1,7 @@
+.back-top {
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  padding: 12px 8px;
+  background-color: blue;
+}

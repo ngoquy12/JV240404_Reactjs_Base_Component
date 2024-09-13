@@ -1,0 +1,41 @@
+.base-button {
+  height: 36px;
+  padding: 0 16px;
+  border: 1px solid transparent;
+  outline: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.primary {
+  background-color: blue;
+}
+
+.secondary {
+  background-color: #dadada;
+  color: #333;
+}
+
+.danger {
+  background-color: red;
+}
+
+.success {
+  background-color: green;
+}
+
+.warning {
+  background-color: orange;
+}
+
+.primary,
+.danger,
+.success,
+.warning {
+  color: #fff;
+}
+
+svg {
+  height: 24px;
+  width: 24px;
+}
